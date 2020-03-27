@@ -134,9 +134,9 @@ remapblock
 # Arrow keys, in the order of: up, right, down, left, center key
 #    UP 
 #    RIGHT 
-#    DOWN 
+    DOWN ENTER
 #    LEFT 
-    LANG_4 ENTER
+    LANG_4 DOWN
 
 # Top row of numeric keypad block, left-to-right
     ESC NUM_LOCK
