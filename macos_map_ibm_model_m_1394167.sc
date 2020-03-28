@@ -96,7 +96,7 @@ remapblock
 #    L 
 #    SEMICOLON 
 #    QUOTE 
-    EUROPE_1 ENTER
+    EUROPE_1 BACKSLASH
 #    ENTER 
 
 # Fourth row of QWERTY section, left-to-right, beginning with Left Shift
